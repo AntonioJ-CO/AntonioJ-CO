@@ -5,6 +5,7 @@ Opaa.
 
  ---
 
+
  ### 🦁Linguagens - Iniciante
  
  <img 
@@ -47,11 +48,6 @@ Opaa.
 <br/>
 
 ### 😵‍💫Estatísticas
-<p align="right">
-  <kbd>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd3ejZoNmRicHJ2eTQ3aTlkZW5vODg0cDBlM3ViYXMzNGZzdHMzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77F1Ogb2A1fy0LESQO/giphy.gif" alt="Meu GIF" width="370">
-  </kbd>
-</p>
 
 <p>
   <img 
@@ -61,6 +57,12 @@ Opaa.
     style="padding-right: 10px;" 
     src="https://github-stats-extended.vercel.app/api?username=anuraghazra&hide_rank=true&custom_title=Antony%27s%20Stats%20%7C%20RX7%20%E2%86%92%E2%86%92%E2%86%92%E2%86%92%E2%86%92&show_icons=true&include_all_commits=true&theme=gruvbox"
   />
+</p>
+
+<p align="right">
+  <kbd>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd3ejZoNmRicHJ2eTQ3aTlkZW5vODg0cDBlM3ViYXMzNGZzdHMzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77F1Ogb2A1fy0LESQO/giphy.gif" alt="Meu GIF" width="400">
+  </kbd>
 </p>
 
 
