@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.pinimg.com/736x/5d/84/91/5d8491c372874c21a884f231baf3300e.jpg" alt="Descansar" width="400" height="150" />
+    <img src="https://i.pinimg.com/736x/5d/84/91/5d8491c372874c21a884f231baf3300e.jpg" alt="Descansar" width="300" height="70" />
 </p>
  
 #
