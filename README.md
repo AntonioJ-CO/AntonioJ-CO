@@ -56,14 +56,6 @@ align="left"
     style="padding-right: 10px;" 
     src="https://github-stats-extended.vercel.app/api?username=AntonioJ-CO&rank_icon=github&custom_title=Antony%27s%20J%26CO%20Github%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=AntonioJ-CO&hide_progress=true&langs_count=4&hide_values=true&theme=gruvbox" 
-  />
-
 </p>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd3ejZoNmRicHJ2eTQ3aTlkZW5vODg0cDBlM3ViYXMzNGZzdHMzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77F1Ogb2A1fy0LESQO/giphy.gif">
