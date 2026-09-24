@@ -44,7 +44,7 @@ Opaa.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <p align="right">
-    <img src="https://s6.ezgif.com/tmp/ezgif-6c95dafe2a0cc325.gif" alt="Descansar" width="800" height="100" />
+    <img src="https://s6.ezgif.com/tmp/ezgif-6b5af084947f0eb1.gif" alt="Descansar" width="300" height="100" />
 </p>
 
 <br/>
