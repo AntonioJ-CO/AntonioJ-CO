@@ -43,12 +43,12 @@ Opaa.
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-<p align="right">
-    <img src="https://s6.ezgif.com/tmp/ezgif-6b5af084947f0eb1.gif" alt="Descansar" width="300" height="100" />
-</p>
 
 <br/>
 <br/>
+<p align="left">
+    <img src="https://s6.ezgif.com/tmp/ezgif-6b5af084947f0eb1.gif" alt="Descansar" width="300" height="100" />
+</p>
 
 ### 😵‍💫Estatísticas
 
@@ -64,7 +64,7 @@ Opaa.
 
 <p align="right">
   <kbd>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd3ejZoNmRicHJ2eTQ3aTlkZW5vODg0cDBlM3ViYXMzNGZzdHMzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77F1Ogb2A1fy0LESQO/giphy.gif" alt="Meu GIF" width="500">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd3ejZoNmRicHJ2eTQ3aTlkZW5vODg0cDBlM3ViYXMzNGZzdHMzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77F1Ogb2A1fy0LESQO/giphy.gif" alt="Carango 0 bala" width="500">
   </kbd>
 </p>
 
