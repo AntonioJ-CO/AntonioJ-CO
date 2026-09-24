@@ -1,7 +1,7 @@
 # ✍️Antônio J C O
 
 Opaa.
- Me chamo Antônio, tenho 18 anos, gosto muito de carro e moto e atualmente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas - Instituto Federal de São Paulo (IFSP) – Campus de Bragança Paulista – 1º semestre.
+ Me chamo Antônio, tenho 18 anos, gosto muito de carro/moto e atualmente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas - Instituto Federal de São Paulo (IFSP) – Campus de Bragança Paulista – 1º semestre.
 
  ---
 
