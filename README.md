@@ -1,4 +1,4 @@
-# ✍️Antônio J C O
+# ✍️AntônioJ&CO
 
 Opaa.
  Me chamo Antônio, tenho 18 anos, gosto muito de carro/moto e atualmente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas - Instituto Federal de São Paulo (IFSP) – Campus de Bragança Paulista – 1º semestre.
@@ -65,4 +65,7 @@ align="left"
   />
 
 </p>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd3ejZoNmRicHJ2eTQ3aTlkZW5vODg0cDBlM3ViYXMzNGZzdHMzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77F1Ogb2A1fy0LESQO/giphy.gif">
+
 
