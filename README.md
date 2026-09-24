@@ -1,10 +1,18 @@
-# ✍️ Antônio 👨🏾‍💻
+<p align="center">
+    <img src="https://i.pinimg.com/736x/5d/84/91/5d8491c372874c21a884f231baf3300e.jpg" alt="Descansar" width="400" height="150" />
+</p>
+ 
+#
 
+<p align="center">
+   <img src=".github/Technology (1).gif">
+</p>
 
-Opaa.
- Me chamo Antônio, tenho 18 anos, gosto muito de carro/moto e tecnologia é claro. Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas - Instituto Federal de São Paulo (IFSP) – Campus de Bragança Paulista – 1º semestre.
+---
 
- ---
+Bem Vindo. Sou o Antônio, tenho 18 anos e sou apaixonado por tecnologia e pelo mundo automotivo. Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP Campus Bragança Paulista (1º Semestre). Estou sempre buscando aprimorar minhas habilidades e transformar ideias em código.
+
+ #
 
 
  ### 🦁Linguagens - Iniciante
@@ -59,7 +67,7 @@ Opaa.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=AntonioJ-CO&hide_rank=true&custom_title=Antony%27s%20Stats%20%7C%20RX7%20%E2%86%92%E2%86%92%E2%86%92%E2%86%92%E2%86%92&show_icons=true&include_all_commits=true&theme=gruvbox"
+    src="https://github-stats-extended.vercel.app/api?username=AntonioJ-CO&hide_rank=true&custom_title=Antony%27s%20Stats%20%7C%20RX7&show_icons=true&include_all_commits=true&theme=gruvbox"
   />
 </p>
 
