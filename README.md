@@ -56,7 +56,7 @@ Bem Vindo. Sou o Antônio, tenho 18 anos e sou apaixonado por tecnologia e pelo 
 <br/>
 <br/>
 <p align="left">
-    <img src="https://s6.ezgif.com/tmp/ezgif-6b5af084947f0eb1.gif" alt="Descansar" width="300" height="100" />
+    <img src=".github/Pacman gif.gif" alt="Descansar" width="300" height="100" />
 </p>
 
 ### 😵‍💫Estatísticas
