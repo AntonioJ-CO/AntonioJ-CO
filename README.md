@@ -44,13 +44,11 @@ Opaa.
 />
 
 <br/>
-<br/>    
-<div style="border: 2px solid #4CAF50; padding: 10px;">
- <img 
-  align="right"
-  height="230"
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd3ejZoNmRicHJ2eTQ3aTlkZW5vODg0cDBlM3ViYXMzNGZzdHMzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77F1Ogb2A1fy0LESQO/giphy.gif">
+<br/>
+<div style="display: inline-block; border-radius: 15px; overflow: hidden; border: 2px solid #30363d;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd3ejZoNmRicHJ2eTQ3aTlkZW5vODg0cDBlM3ViYXMzNGZzdHMzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77F1Ogb2A1fy0LESQO/giphy.gif" alt="Madza RX7" style="display: block;" />
 </div>
+
 ### 😵‍💫Estatísticas
 
 <p>
