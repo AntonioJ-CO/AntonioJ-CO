@@ -59,7 +59,7 @@ Opaa.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=antonioj-co&hide_rank=true&custom_title=Antony%27s%20Stats%20%7C%20RX7%20%E2%86%92%E2%86%92%E2%86%92%E2%86%92%E2%86%92&show_icons=true&include_all_commits=true&theme=gruvbox"
+    src="https://github-stats-extended.vercel.app/api?username=AntonioJ-CO&hide_rank=true&custom_title=Antony%27s%20Stats%20%7C%20RX7%20%E2%86%92%E2%86%92%E2%86%92%E2%86%92%E2%86%92&show_icons=true&include_all_commits=true&theme=gruvbox"
   />
 </p>
 
