@@ -43,6 +43,11 @@ Opaa.
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
+<p align="right">
+  <kbd>
+    <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Descansar" width="300" height="100" />
+  </kbd>
+</p>
 
 <br/>
 <br/>
