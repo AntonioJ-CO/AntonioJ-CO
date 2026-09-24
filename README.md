@@ -56,7 +56,7 @@ align="left"
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-stats-extended.vercel.app/api?username=AntonioJ-CO&rank_icon=github&custom_title=Antony%27s%20J%26CO%20Github%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox" 
   />
