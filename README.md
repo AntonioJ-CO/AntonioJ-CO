@@ -6,7 +6,11 @@ Opaa.
  ---
 
  ### 🦁Linguagens - Iniciante
- 
+ <p align="center">
+  <kbd>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd3ejZoNmRicHJ2eTQ3aTlkZW5vODg0cDBlM3ViYXMzNGZzdHMzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77F1Ogb2A1fy0LESQO/giphy.gif" alt="Meu GIF" width="350">
+  </kbd>
+</p>
  <img 
     align="left" 
     alt="HTML"
@@ -45,11 +49,6 @@ Opaa.
 
 <br/>
 <br/>
-<p align="center">
-  <kbd>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd3ejZoNmRicHJ2eTQ3aTlkZW5vODg0cDBlM3ViYXMzNGZzdHMzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77F1Ogb2A1fy0LESQO/giphy.gif" alt="Meu GIF" width="230">
-  </kbd>
-</p>
 
 ### 😵‍💫Estatísticas
 
